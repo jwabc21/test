@@ -1,0 +1,399 @@
+.faq,
+.faq * {
+  box-sizing: border-box;
+}
+.faq {
+  background: var(--white, #ffffff);
+  height: 1184px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-43 {
+  background: var(--white, #ffffff);
+  border-radius: 16px;
+  padding: 24px 56px 24px 56px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 1244px;
+  position: absolute;
+  left: 98px;
+  top: 536px;
+  box-shadow: var(
+    --drop-shadow-box-shadow,
+    18px 15px 35px 0px rgba(0, 0, 0, 0.09)
+  );
+  overflow: hidden;
+}
+.susan-smith-yard-work-150 {
+  color: var(--heading, #232a42);
+  text-align: left;
+  font-family: var(
+    --headings-h5-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h5-600-font-size, 28px);
+  line-height: var(--headings-h5-600-line-height, 32px);
+  font-weight: var(--headings-h5-600-font-weight, 600);
+  position: relative;
+  flex: 1;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  overflow: visible;
+}
+.frame-44 {
+  background: var(--white, #ffffff);
+  border-radius: 16px;
+  padding: 24px 56px 24px 56px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 1244px;
+  position: absolute;
+  left: 98px;
+  top: 688px;
+  box-shadow: var(
+    --drop-shadow-box-shadow,
+    18px 15px 35px 0px rgba(0, 0, 0, 0.09)
+  );
+  overflow: hidden;
+}
+.glenn-allen-mulching-and-weed-removal-250 {
+  color: var(--heading, #232a42);
+  text-align: left;
+  font-family: var(
+    --headings-h5-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h5-600-font-size, 28px);
+  line-height: var(--headings-h5-600-line-height, 32px);
+  font-weight: var(--headings-h5-600-font-weight, 600);
+  position: relative;
+  flex: 1;
+}
+.group-12 {
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  overflow: visible;
+}
+.frame-45 {
+  background: var(--white, #ffffff);
+  border-radius: 16px;
+  padding: 24px 56px 24px 56px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 1244px;
+  position: absolute;
+  left: 98px;
+  top: 840px;
+  box-shadow: var(
+    --drop-shadow-box-shadow,
+    18px 15px 35px 0px rgba(0, 0, 0, 0.09)
+  );
+  overflow: hidden;
+}
+.ben-menzer-yard-work-150 {
+  color: var(--heading, #232a42);
+  text-align: left;
+  font-family: var(
+    --headings-h5-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h5-600-font-size, 28px);
+  line-height: var(--headings-h5-600-line-height, 32px);
+  font-weight: var(--headings-h5-600-font-weight, 600);
+  position: relative;
+  flex: 1;
+}
+.group-13 {
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  overflow: visible;
+}
+.frame-46 {
+  background: var(--white, #ffffff);
+  border-radius: 16px;
+  padding: 24px 56px 24px 56px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 1244px;
+  position: absolute;
+  left: 98px;
+  top: 992px;
+  box-shadow: var(
+    --drop-shadow-box-shadow,
+    18px 15px 35px 0px rgba(0, 0, 0, 0.09)
+  );
+  overflow: hidden;
+}
+.ashley-flemming-yard-work-150 {
+  color: var(--heading, #232a42);
+  text-align: left;
+  font-family: var(
+    --headings-h5-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h5-600-font-size, 28px);
+  line-height: var(--headings-h5-600-line-height, 32px);
+  font-weight: var(--headings-h5-600-font-weight, 600);
+  position: relative;
+  flex: 1;
+}
+.group-14 {
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  overflow: visible;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  width: 977px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 136px;
+}
+.invoices {
+  color: var(--heading, #232a42);
+  text-align: center;
+  font-family: var(
+    --headings-h2-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h2-600-font-size, 67px);
+  line-height: var(--headings-h2-600-line-height, 72px);
+  font-weight: var(--headings-h2-600-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.below-is-information-regarding-customer-purchase-history-including-payment-their-contact-and-the-service-provided {
+  color: var(--paragraph, #525252);
+  text-align: center;
+  font-family: var(
+    --main-text-p1-400-font-family,
+    "PlusJakartaSans-Medium",
+    sans-serif
+  );
+  font-size: var(--main-text-p1-400-font-size, 16px);
+  line-height: var(--main-text-p1-400-line-height, 24px);
+  font-weight: var(--main-text-p1-400-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.frame-42 {
+  background: var(--accent-1, #2da884);
+  border-radius: 16px;
+  padding: 48px 32px 48px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  width: 1244px;
+  position: absolute;
+  left: 98px;
+  top: 304px;
+  box-shadow: var(
+    --drop-shadow-box-shadow,
+    18px 15px 35px 0px rgba(0, 0, 0, 0.09)
+  );
+  overflow: hidden;
+}
+.frame-869 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1068px;
+  position: relative;
+}
+.invoices-routine {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --headings-h5-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h5-600-font-size, 28px);
+  line-height: var(--headings-h5-600-line-height, 32px);
+  font-weight: var(--headings-h5-600-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+  height: 32px;
+}
+.the-following-invoices-are-specifically-from-routine-job-orders-including-a-drop-down-of-billing-information {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --main-text-p1-400-font-family,
+    "PlusJakartaSans-Medium",
+    sans-serif
+  );
+  font-size: var(--main-text-p1-400-font-size, 16px);
+  line-height: var(--main-text-p1-400-line-height, 24px);
+  font-weight: var(--main-text-p1-400-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  overflow: visible;
+}
+.navbar {
+  background: rgba(65, 154, 75, 0.37);
+  border-style: solid;
+  border-color: var(--white, #ffffff);
+  border-width: 0px 0px 1px 0px;
+  padding: 24px 5%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px; 
+  margin: auto;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000; 
+}
+.good-blessings-llc {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h4-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h4-600-font-size, 38px);
+  line-height: var(--headings-h4-600-line-height, 48px);
+  font-weight: var(--headings-h4-600-font-weight, 600);
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 697px;
+  position: relative;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.services {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.schedule {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.inventory {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.invoices2 {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.reports {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}

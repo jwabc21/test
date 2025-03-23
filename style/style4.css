@@ -1,0 +1,472 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #f5f5f5;
+  border-style: solid;
+  border-color: #f5f5f5;
+  border-width: 1px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.hero {
+  background: var(--white, #ffffff);
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.image-placeholder {
+  background: var(--white, #ffffff);
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  overflow: hidden;
+}
+.image-1 {
+  background: linear-gradient(
+    to left,
+    rgba(58, 58, 58, 0.42),
+    rgba(58, 58, 58, 0.42)
+  );
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  object-fit: cover;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 184px;
+}
+.welcome {
+  color: var(--white, #ffffff);
+  text-align: center;
+  font-family: var(
+    --headings-h1-600-font-family,
+    "Montserrat-Bold",
+    sans-serif
+  );
+  font-size: var(--headings-h1-600-font-size, 138px);
+  line-height: var(--headings-h1-600-line-height, 144px);
+  font-weight: var(--headings-h1-600-font-weight, 700);
+  position: relative;
+  width: 1061px;
+}
+.welcome-to-good-blessings-lawn-care {
+  color: var(--white, #ffffff);
+  text-align: center;
+  font-family: var(
+    --main-text-p1-400-font-family,
+    "PlusJakartaSans-Medium",
+    sans-serif
+  );
+  font-size: var(--main-text-p1-400-font-size, 16px);
+  line-height: var(--main-text-p1-400-line-height, 24px);
+  font-weight: var(--main-text-p1-400-font-weight, 500);
+  position: relative;
+  width: 731px;
+}
+.navbar {
+  background: rgba(65, 154, 75, 0.37);
+  border-style: solid;
+  border-color: var(--white, #ffffff);
+  border-width: 0px 0px 1px 0px;
+  padding: 24px 5%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px; 
+  margin: auto;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000; 
+}
+.good-blessings-llc {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h4-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h4-600-font-size, 38px);
+  line-height: var(--headings-h4-600-line-height, 48px);
+  font-weight: var(--headings-h4-600-font-weight, 600);
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 697px;
+  position: relative;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.services {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.schedule {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.inventory {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.invoices {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.reports {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --headings-h7-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h7-600-font-size, 16px);
+  line-height: var(--headings-h7-600-line-height, 24px);
+  font-weight: var(--headings-h7-600-font-weight, 600);
+  position: relative;
+}
+.story {
+  background: var(--white, #ffffff);
+  border-radius: 16px;
+  padding: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 986px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 792px;
+  overflow: hidden;
+}
+.years {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+._15 {
+  text-align: center;
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+._15-span {
+  color: var(--heading, #232a42);
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+}
+._15-span2 {
+  color: var(--accent-1, #2da884);
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+}
+.years-experience {
+  color: var(--paragraph, #525252);
+  text-align: center;
+  font-family: var(
+    --main-text-p1-400-font-family,
+    "PlusJakartaSans-Medium",
+    sans-serif
+  );
+  font-size: var(--main-text-p1-400-font-size, 16px);
+  line-height: var(--main-text-p1-400-line-height, 24px);
+  font-weight: var(--main-text-p1-400-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.vector-1 {
+  flex-shrink: 0;
+  width: 0px;
+  height: 72px;
+  position: relative;
+  overflow: visible;
+}
+.product {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+._10-k {
+  text-align: center;
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+._10-k-span {
+  color: var(--heading, #232a42);
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+}
+._10-k-span2 {
+  color: var(--accent-1, #2da884);
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+}
+.product2 {
+  color: var(--paragraph, #525252);
+  text-align: center;
+  font-family: var(
+    --main-text-p1-400-font-family,
+    "PlusJakartaSans-Medium",
+    sans-serif
+  );
+  font-size: var(--main-text-p1-400-font-size, 16px);
+  line-height: var(--main-text-p1-400-line-height, 24px);
+  font-weight: var(--main-text-p1-400-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.vector-2 {
+  flex-shrink: 0;
+  width: 0px;
+  height: 72px;
+  position: relative;
+  overflow: visible;
+}
+.satisfied-clients {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+._5-k {
+  text-align: center;
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+._5-k-span {
+  color: var(--heading, #232a42);
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+}
+._5-k-span2 {
+  color: var(--accent-1, #2da884);
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+}
+.satisfied-clients2 {
+  color: var(--paragraph, #525252);
+  text-align: center;
+  font-family: var(
+    --main-text-p1-400-font-family,
+    "PlusJakartaSans-Medium",
+    sans-serif
+  );
+  font-size: var(--main-text-p1-400-font-size, 16px);
+  line-height: var(--main-text-p1-400-line-height, 24px);
+  font-weight: var(--main-text-p1-400-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.vector-3 {
+  flex-shrink: 0;
+  width: 0px;
+  height: 72px;
+  position: relative;
+  overflow: visible;
+}
+.local-team-members {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+._87 {
+  text-align: center;
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+._87-span {
+  color: var(--heading, #232a42);
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+}
+._87-span2 {
+  color: var(--accent-1, #2da884);
+  font-family: var(
+    --headings-h3-600-font-family,
+    "Montserrat-SemiBold",
+    sans-serif
+  );
+  font-size: var(--headings-h3-600-font-size, 50px);
+  line-height: var(--headings-h3-600-line-height, 56px);
+  font-weight: var(--headings-h3-600-font-weight, 600);
+}
+.local-team-members2 {
+  color: var(--paragraph, #525252);
+  text-align: center;
+  font-family: var(
+    --main-text-p1-400-font-family,
+    "PlusJakartaSans-Medium",
+    sans-serif
+  );
+  font-size: var(--main-text-p1-400-font-size, 16px);
+  line-height: var(--main-text-p1-400-line-height, 24px);
+  font-weight: var(--main-text-p1-400-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
